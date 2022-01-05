@@ -16,7 +16,9 @@ const quoteData = [
 ];
 
 const colors = [
-    'purple', 'blueviolet', 'cadetblue', 'darkcyan', 'darkslateblue', 'indigo', 'rebeccapurple', 'darkgoldenrod', 'darkred'
+    'purple', 'blueviolet', 'cadetblue', 'darkcyan', 'darkslateblue', 
+    'indigo', 'rebeccapurple', 'darkgoldenrod', 'darkred',
+    'midnightblue', 'olive', 'seagreen', 'teal', 'dodgerblue', 'chocolate'
 ];
 const random_color = colors[Math.floor(Math.random() * colors.length)];
 
