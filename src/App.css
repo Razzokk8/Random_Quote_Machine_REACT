@@ -41,8 +41,8 @@ p {
     display: flex;
     flex-direction: column;
     width: 550px;
-    height: 350px;
-    padding: 7px 30px;
+    height: 400px;
+    padding: 7px 25px;
     border-radius: 5px;
 }
 
